@@ -6,7 +6,7 @@ Kelompok C03:
 ----------------------------------------------------------------
 ## Soal
 * [Soal 1](#soal-1)
-  * [Soal 1pokezone](#Soal-1_pokezone)
+  * [Soal 1 pokezone](#Soal-1 pokezone)
   * [Soal 1 traizone](#Soal-1traizone)
 * [Soal 2](#soal-2)
 * [Soal 3](#soal-3)
@@ -25,7 +25,7 @@ Kelompok C03:
 
 #
 
-#### Soal 1_pokezone:
+#### Soal 1 pokezone:
 
 _**Penyelesaian:**_
 
