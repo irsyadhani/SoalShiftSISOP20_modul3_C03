@@ -6,8 +6,8 @@ Kelompok C03:
 ----------------------------------------------------------------
 ## Soal
 * [Soal 1](#soal-1)
-  * [Soal 1 pokezone](#Soal-1 pokezone)
-  * [Soal 1 traizone](#Soal-1 traizone)
+  * [Soal 1 pokezone](#Soal-1pokezone)
+  * [Soal 1 traizone](#Soal-1traizone)
 * [Soal 2](#soal-2)
 * [Soal 3](#soal-3)
 * [Soal 4](#soal-4)
