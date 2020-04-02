@@ -5,18 +5,18 @@ Kelompok C03:
 
 ----------------------------------------------------------------
 ## Soal
-* [Soal 1](#Soal-1-[Poke-ZONE])
+* [Soal 1](#Soal-1-Poke-ZONE)
   * [Soal 1 pokezone](#Soal-1-pokezone)
   * [Soal 1 traizone](#Soal-1-traizone)
-* [Soal 2](#Soal-2-(Tap-Tap-Game))
-* [Soal 3](#Soal-3-(Pengkategorian-File))
-* [Soal 4](#Soal-4-(Norland-Pecahkan-Matriks))
+* [Soal 2](#Soal-2-Tap-Tap-Game)
+* [Soal 3](#Soal-3-Pengkategorian-File)
+* [Soal 4](#Soal-4-Norland-Pecahkan-Matriks)
   * [Soal 4.a.](#soal-4a)
   * [Soal 4.b.](#soal-4b)
   * [Soal 4.c.](#soal-4c)
 ----------------------------------------------------------------
 
-# Soal 1 [Poke ZONE]
+# Soal 1 Poke ZONE
    _**Soal:**_
 
 > Source Code: [Soal 1 pokezone](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal1/soal1_pokezone.c)
@@ -53,7 +53,7 @@ _**Kendala:**_
 
 # 
 
-# Soal 2 (Tap Tap Game)
+# Soal 2 Tap Tap Game
   
 _**Soal 2:**_
 
@@ -77,7 +77,7 @@ _**Kendala:**_
 
 #
 
-# Soal 3 (Pengkategorian File)
+# Soal 3 Pengkategorian File
 
 _**Soal 3:**_
 
@@ -100,7 +100,7 @@ _**Kendala:**_
 
 #
 
-# Soal 4 (Norland Pecahkan Matriks)
+# Soal 4 Norland Pecahkan Matriks
    _**Soal:**_
 
 > Source Code: [Soal 4.a.](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal4/soal4a.c)
