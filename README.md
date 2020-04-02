@@ -25,7 +25,7 @@ Kelompok C03:
 
 #
 
-#### Soal 1_pokezone:
+#### Soal 1 pokezone:
 
 _**Penyelesaian:**_
 
