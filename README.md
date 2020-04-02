@@ -5,7 +5,7 @@ Kelompok C03:
 
 ----------------------------------------------------------------
 ## Soal
-* [Soal 1](#Soal-1-(Poke-ZONE))
+* [Soal 1](#Soal-1-Poke-ZONE)
   * [Soal 1 pokezone](#Soal-1-pokezone)
   * [Soal 1 traizone](#Soal-1-traizone)
 * [Soal 2](#Soal-2-(Tap-Tap-Game))
@@ -16,7 +16,7 @@ Kelompok C03:
   * [Soal 4.c.](#soal-4c)
 ----------------------------------------------------------------
 
-# Soal 1 (Poke ZONE)
+# Soal 1 Poke ZONE
    _**Soal:**_
 
 > Source Code: [Soal 1 pokezone](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal1/soal1_pokezone.c)
