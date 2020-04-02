@@ -11,7 +11,7 @@ Kelompok C03:
 * [Soal 2](#soal-2)
 * [Soal 3](#soal-3)
 * [Soal 4](#soal-4)
-  * [Soal 4.a.](#soal-4a)
+  * [Soal 4.a.]
   * [Soal 4.b.](#soal-4b)
   * [Soal 4.c.](#soal-4c)
 ----------------------------------------------------------------
