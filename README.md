@@ -20,6 +20,7 @@ Kelompok C03:
    _**Soal:**_
 
 > Source Code: [Soal 1 pokezone](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal1/soal1_pokezone.c)
+
 > Source Code: [Soal 1 traizone](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal1/soal1_traizone.c)
 
 #
@@ -103,7 +104,9 @@ _**Kendala:**_
    _**Soal:**_
 
 > Source Code: [Soal 4.a.](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal4/soal4a.c)
+
 > Source Code: [Soal 4.b.](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal4/soal4b.c)
+
 > Source Code: [Soal 4.c.](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal4/soal4c.c)
 
 #
