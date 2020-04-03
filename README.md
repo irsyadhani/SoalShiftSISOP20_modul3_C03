@@ -123,6 +123,7 @@ Buatlah program C dengan nama "4a.c", yang berisi program untuk
 melakukan perkalian matriks. Ukuran matriks pertama adalah 4x2, dan
 matriks kedua 2x5. Isi dari matriks didefinisikan di dalam kodingan. Matriks
 nantinya akan berisi angka 1-20 (tidak perlu dibuat filter angka).
+
 _**Penyelesaian:**_
 
 ```c
@@ -137,6 +138,7 @@ Hasil eksekusi program:
 Buatlah program C kedua dengan nama "4b.c". Program ini akan
 mengambil variabel hasil perkalian matriks dari program "4a.c". Setelah ditampilkan, berikutnya untuk setiap angka dari matriks
 tersebut, carilah nilai faktorialnya.
+
 _**Penyelesaian:**_
 
 ```c
@@ -151,6 +153,7 @@ Hasil eksekusi program:
 Norland diminta mengetahui jumlah file dan
 folder di direktori saat ini dengan command "ls | wc -l". Karena sudah belajar
 IPC, Norland mengerjakannya dengan semangat.
+
 _**Penyelesaian:**_
 
 ```c
