@@ -81,7 +81,7 @@ _**Kendala:**_
 
 _**Soal 3:**_
 
-> Source Code: [Soal 3](Soal 3/3.c)
+> Source Code: [Soal 3](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/Soal%203/3.c)
 
 #
 
