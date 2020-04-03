@@ -102,6 +102,13 @@ _**Kendala:**_
 
 # Soal 4 Norland Pecahkan Matriks
    _**Soal:**_
+Norland adalah seorang penjelajah terkenal. Pada suatu malam Norland menyusuri
+jalan setapak menuju ke sebuah gua dan mendapati tiga pilar yang pada setiap
+pilarnya ada sebuah batu berkilau yang tertancap. Batu itu berkilau di kegelapan dan
+setiap batunya memiliki warna yang berbeda.
+Norland mendapati ada sebuah teka-teki yang tertulis di setiap pilar. Untuk dapat
+mengambil batu mulia di suatu pilar, Ia harus memecahkan teka-teki yang ada di
+pilar tersebut. Norland menghampiri setiap pilar secara bergantian.
 
 > Source Code: [Soal 4.a.](https://github.com/irsyadhani22/SoalShiftSISOP20_modul3_C03/blob/master/soal4/soal4a.c)
 
@@ -112,7 +119,10 @@ _**Kendala:**_
 #
 
 #### Soal 4.a.:
-
+Buatlah program C dengan nama "4a.c", yang berisi program untuk
+melakukan perkalian matriks. Ukuran matriks pertama adalah 4x2, dan
+matriks kedua 2x5. Isi dari matriks didefinisikan di dalam kodingan. Matriks
+nantinya akan berisi angka 1-20 (tidak perlu dibuat filter angka).
 _**Penyelesaian:**_
 
 ```c
@@ -124,7 +134,9 @@ Hasil eksekusi program:
 #
 
 #### Soal 4.b.:
-
+Buatlah program C kedua dengan nama "4b.c". Program ini akan
+mengambil variabel hasil perkalian matriks dari program "4a.c". Setelah ditampilkan, berikutnya untuk setiap angka dari matriks
+tersebut, carilah nilai faktorialnya.
 _**Penyelesaian:**_
 
 ```c
@@ -136,7 +148,9 @@ Hasil eksekusi program:
 #
 
 #### Soal 4.c.:
-
+Norland diminta mengetahui jumlah file dan
+folder di direktori saat ini dengan command "ls | wc -l". Karena sudah belajar
+IPC, Norland mengerjakannya dengan semangat.
 _**Penyelesaian:**_
 
 ```c
