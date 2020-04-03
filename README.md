@@ -84,6 +84,7 @@ Buatlah sebuah program dari C untuk mengkategorikan file. Program ini akan
 memindahkan file sesuai ekstensinya (tidak case sensitive. JPG dan jpg adalah
 sama) ke dalam folder sesuai ekstensinya yang folder hasilnya terdapat di working
 directory ketika program kategori tersebut dijalankan.
+
 ● Semisal program dijalankan:
 #### File kategori terletak di /home/izone/kategori
 
@@ -91,12 +92,12 @@ directory ketika program kategori tersebut dijalankan.
 
 #### Hasilnya adalah sebagai berikut
 /home/izone
-|-jpg
-|--file1.jpg
-|-c
-|--file2.c
-|-zip
-|--file3.zi
+> -jpg
+> --file1.jpg
+> -c
+> --file2.c
+> -zip
+> --file3.zi
 
 ● Pada opsi -f tersebut, user bisa menambahkan argumen file yang bisa
 dikategorikan sebanyak yang user inginkan seperti contoh di atas.
