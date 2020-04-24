@@ -5,12 +5,12 @@ Kelompok C03:
 
 ----------------------------------------------------------------
 ## Soal
-* [Soal 1](#Soal-1-Poke-ZONE)
+* [Soal 1](#soal-1-poke-zone)
   * [Soal 1 pokezone](#Soal-1-pokezone)
   * [Soal 1 traizone](#Soal-1-traizone)
-* [Soal 2](#Soal-2-Tap-Tap-Game)
-* [Soal 3](#Soal-3-Pengkategorian-File)
-* [Soal 4](#Soal-4-Norland-Pecahkan-Matriks)
+* [Soal 2](#soal-2-tap-tap-game)
+* [Soal 3](#soal-3-pengkategorian-file)
+* [Soal 4](#soal-4-norland-pecahkan-matriks)
   * [Soal 4.a.](#soal-4a)
   * [Soal 4.b.](#soal-4b)
   * [Soal 4.c.](#soal-4c)
